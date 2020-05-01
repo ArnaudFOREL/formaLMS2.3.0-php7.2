@@ -133,7 +133,7 @@
 <div class="tabs-wrapper">
     <ul class="nav nav-tabs hidden-xs">
         <li class="active">
-            <a href="index.php?r=catalog/show&amp;id_cata=0">Catalogo Corsi</a>
+            <a href="index.php?r=catalog/show&amp;id_cata=0"><?php echo Lang::t('_CATALOGUE') ?></a>
         </li>
     </ul>
 </div>
